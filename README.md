@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-da-silva&theme=dark&show_icons=true)
 
 <h1 align="center">Hi 👋, I'm Charles da Silva</h1>
 <h3 align="left">I'm an IT professional with 17 years of experience in customer support and problem solving involving high complex cases into infrastructure and Data Center Solutions, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to teamwork due attention and communication skills. 
