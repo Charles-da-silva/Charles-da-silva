@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles da Silva</h1>
-<h3 align="left">I'm an IT professional with 17 years of experience with customer support and problem solving involving high complex cases into infrastructure and Data Center Solutions, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to teamwork due attention and communication skills. 
+<h3 align="left">I'm an IT professional with 17 years of experience in customer support and problem solving involving high complex cases into infrastructure and Data Center Solutions, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to teamwork due attention and communication skills. 
   
   In recent months I'm studying programming to change my carrer path to the development area and looking for Jr opportunities to apply the knowledge acquired. The first course completed was the LocalizaLabs .NET Developer bootcamp (72hs) where I learned a lot about the topics below: 
  </h3>
