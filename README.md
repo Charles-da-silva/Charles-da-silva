@@ -1,33 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charles da Silva</h1>
-<h3 align="left">I'm an IT professional with 17 years of experience in customer support and problem solving involving high complex cases into infrastructure and Data Center Solutions, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to teamwork due attention and communication skills. 
+<h3 align="left">I'm an IT professional with 17 years of experience in customer support and problem solving involving high complex cases about infrastructure and Data Center Solutions, been the last 11 years working like TechSupport Engineer on Dell EMC, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to teamwork due attention and communication skills. 
   
-  In recent months I'm studying programming to change my carrer path to the development area and looking for Jr opportunities to apply the knowledge acquired. The first course completed was the LocalizaLabs .NET Developer bootcamp (72hs) where I learned a lot about the topics below: 
+In recent months I'm studying programming to change my carrer path to the development area and looking for Jr opportunities to apply the knowledge acquired. The first course completed was the LocalizaLabs .NET Developer bootcamp (72hs) where I learned a lot about the topics. On this moment I'm studing by another bootcamp, now about FullStack Development where I've learned a lot of things that are opportunizing me to deliver projects like that: https://charles-da-silva.github.io/Fishflix/ 
  </h3>
- <h3 align="left">
-  
-  - Computational Thinking
-  
-  - Agile projects with SCRUM 
-  
-  - Essential Programming Logic 
-  
-  - Introduction to Git and GitHub 
-  
-  - Object Oriented Programming in C# 
-  
-  - Constructors, Properties, Delegates and Events in .NET 
-  
-  - Introduction to microservices and RESTfull 
-  
-  - Collection Fundamentals and LINQ 
-  
-  - Introduction to Design Patterns 
-  - Introduction to APIs and Methods HTTP 
-  - Setup and Deploy with Microsoft Azure Cloud 
-  - Continuous Integration (CI) and Continuous Delivery(CD) in Practice with .NET 
-  - SOLID principles on OOP 
-  - SQL Server - Creating queries, Modeling a Database, Best Practices in relational databases 
-  - Introduction to Data Engineering on Azure</h3>
   
   <br>
 
