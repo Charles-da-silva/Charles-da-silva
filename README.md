@@ -11,8 +11,6 @@ Today I’m focusing on backend with a new .Net/C# course learning about OO, col
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charles-da-silva&label=Profile%20views&color=0e75b6&style=flat" alt="charles-da-silva" /> </p>
 
-- 🌱 I’m currently learning **FullStack Web development**
-
 - 📫 You can reach me sending a message to **emaildocharles@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
