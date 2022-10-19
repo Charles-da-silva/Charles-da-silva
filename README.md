@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles da Silva</h1>
 <h3 align="left">I'm an IT professional with 17 years of experience in customer support and problem solving involving high complex cases about infrastructure and Data Center Solutions, been the last 11 years working like TechSupport Engineer on Dell EMC, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to team work due attention and communication skills. 
-  
+<br>  
 Since the previous year I've been studying programming to change my carrer path to development area and looking for Jr opportunities to apply the knowledge acquired. The first completed course was about .NET Developer (bootcamp of 72hs about SCRUM, GitHub, OOP, Constructors, Properties, Delegates and Events, Introduction to microservices and RESTfull, Collection Fundamentals and LINQ, Introduction to Design Patterns, Introduction to APIs and Methods HTTP, Creating queries, Modeling a Database, Good practices in relational databases with SQL Server). 
 
 After this bootcamp I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and learned a lot of things that opportunized me to deliver projects like that: https://charles-da-silva.github.io/Fishflix/
