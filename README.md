@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charles da Silva</h1>
-<h3 align="left">I'm an IT professional with 20+ years of experience in customer support and problem solving involving high complex cases about infrastructure and Data Center Solutions, been the last 14 years working like TechSupport Engineer on Dell EMC, ever focused on the better efficiency, with facility for adaptation to new challenges, proactivity and responsibility. Ethic person that love and has facility to team work due attention and communication skills. 
+<h3 align="left">I am an IT professional with 20+ years of experience in customer support and troubleshooting involving highly complex cases in infrastructure and data center solutions. For the last 14 years, I worked as a Technical Support Engineer at Dell EMC, with ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality. I am an ethical person that enjoy and has the ability to teamwork, with attention and communication skills. 
 <br><br>
-Since this year I've been studying Systems Analysis and Development at Uninter College as well as studying programming to change my carrer path to development area and looking for Jr opportunities to apply the knowledge acquired. The first completed course was about .NET Developer (bootcamp of 72hs about SCRUM, GitHub, OOP, Constructors, Properties, Delegates and Events, Introduction to microservices and RESTfull, Collection Fundamentals and LINQ, Introduction to Design Patterns, Introduction to APIs and Methods HTTP, Creating queries, Modeling a Database, Good practices in relational databases with SQL Server). 
+I'm currently studying Systems Analysis and Development at university Uninter as well as studying programming to change my carrer path to development area and looking for Jr opportunities to apply the knowledge acquired. The first completed course was about .NET Developer (bootcamp of 72hs about SCRUM, GitHub, OOP, Constructors, Properties, Delegates and Events, Introduction to microservices and RESTfull, Collection Fundamentals and LINQ, Introduction to Design Patterns, Introduction to APIs and Methods HTTP, Creating queries, Modeling a Database, Good practices in relational databases with SQL Server). 
 <br><br>
 After this bootcamp I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and learned a lot of things that opportunized me to deliver projects like that: https://charles-da-silva.github.io/Fishflix/
 <br><br>
-Today I’m focusing on backend with a new .Net/C# course learning about OO, collections, UML, ASP.NET, Entity Framework, LINQ, Lambda and more.</h3>
+Currently I’m focusing on backend with a new .Net/C# course learning about OO, collections, UML, ASP.NET, Entity Framework, LINQ, Lambda and more.</h3>
   
 <br>
 
