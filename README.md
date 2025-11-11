@@ -15,8 +15,9 @@ I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and
 - 🌐 Web Development: HTML, CSS, React  
 - 🧰 Tools: Git, GitHub, VS Code  
 
-
-## 🛠️ Technologies I Use
+<br>
+**🛠️ Technologies I Use**
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
