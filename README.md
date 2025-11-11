@@ -30,7 +30,7 @@ I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and
 
 ## 📊 GitHub Stats
 
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlessilva&show_icons=true&theme=dracula)  
+![Charles's GitHub stats]([https://github-readme-stats.vercel.app/api?username=charlessilva&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=charlessilva&show_icons=true&theme=dracula&cache_seconds=1800))  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlessilva&layout=compact&theme=dracula)
 
 ---
