@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Charles da Silva</h1>
-<h4 align="left">I'm an IT professional with 20+ years of experience in customer support and troubleshooting involving highly complex cases in infrastructure and data center solutions. For the last 14 years, I worked as a Technical Support Engineer at Dell EMC, with ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality. I am an ethical person that enjoy and has the ability to teamwork, with attention and communication skills. 
-<br><br>
-I'm currently studying Systems Analysis and Development at university Uninter as well as studying programming to change my carrer path to development area and looking for Jr opportunities to apply the knowledge acquired. The first completed course was about .NET Developer (bootcamp of 72hs about SCRUM, GitHub, OOP, Constructors, Properties, Delegates and Events, Introduction to microservices and RESTfull, Collection Fundamentals and LINQ, Introduction to Design Patterns, Introduction to APIs and Methods HTTP, Creating queries, Modeling a Database, Good practices in relational databases with SQL Server). 
-<br><br>
-After this bootcamp I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and learned a lot of things that opportunized me to deliver projects like that: https://charles-da-silva.github.io/Fishflix/
-<br><br>
-Currently I’m focusing on backend with a new .Net/C# course learning about OO, collections, UML, ASP.NET, Entity Framework, LINQ, Lambda and more.</h3>
-  
-<br>
+# 👋 Hello! I'm Charles Silva. It's a pleasure to have you here to known a little bit about me.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charles-da-silva&label=Profile%20views&color=0e75b6&style=flat" alt="charles-da-silva" /> </p>
+I'm an IT professional with over **20 years of experience in Technical Support and IT Infrastructure** that on the last 14 years, I worked as a Technical Support Engineer at Dell EMC, with ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality. I am an ethical person that enjoy and has the ability to teamwork, with attention and communication skills.
 
-- 📫 You can reach me sending a message to **emaildocharles@gmail.com**
+Currently studyng a degree in **Systems Analysis and Development** as well as taking other courses and seeking more knowledge through YouTube and AI tools.  
+My goal is to transition into **Software Development**, applying my extensive technical background of **analyze and solve problems** to build practical, secure, and efficient solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charlessilvadasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlessilvadasilva" height="30" width="40" /></a>
-</p>
+I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and learned a lot of things that opportunized me to deliver projects like that: https://charles-da-silva.github.io/Fishflix/
+<br>Also studied backend with .Net/C# courses learning about OO, collections, UML, ASP.NET, Entity Framework, LINQ, Lambda and more.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+---
+
+**Currently learning and practicing:**
+- 💻 Languages: Python, JavaScript, C#  
+- 🌐 Web Development: HTML, CSS, React  
+- 🧰 Tools: Git, GitHub, VS Code  
+
+
+## 🛠️ Technologies I Use
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlessilva&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlessilva&layout=compact&theme=dracula)
+
+---
+
+⭐ **"Experience builds the foundation, but continuous learning turns that foundation into innovation."**
