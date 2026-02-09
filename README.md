@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Charles Silva. It's a pleasure to have you here to known a little bit about me.
 
-I'm an IT professional with over **20 years of experience in Technical Support and IT Infrastructure** that on the last 14 years, I worked as a Technical Support Engineer at Dell EMC, with ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality. I am an ethical person that enjoy and has the ability to teamwork, with attention and communication skills.
+I'm an IT professional with over **20 years of experience in Technical Support and IT Infrastructure** and on the last 14 years I worked as Technical Support Engineer at Dell EMC. I've ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality. I am an ethical person that enjoy and has the ability to teamwork, with attention and communication skills.
 
 Currently studyng a degree in **Systems Analysis and Development** as well as taking other courses and seeking more knowledge through YouTube and AI tools.  
 My goal is to transition into **Software Development**, applying my extensive technical background of **analyze and solve problems** to build practical, secure, and efficient solutions.
@@ -16,9 +16,10 @@ I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and
 - 🧰 Tools: Git, GitHub, VS Code  
 
 <br>
-**🛠️ Technologies I know**
+**🛠️ Technologies that I studied**
 <br><br>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
