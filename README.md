@@ -19,7 +19,7 @@ I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and
 **🛠️ Technologies that I studied**
 <br><br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DE0029?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-163DF0?style=for-the-badge&logo=c-sharp&logoColor=white)
