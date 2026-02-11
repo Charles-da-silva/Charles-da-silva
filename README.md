@@ -1,33 +1,75 @@
-# 👋 Hello! I'm Charles Silva. It's a pleasure to have you here to known a little bit about me.
+# Hi there! I'm Charles Silva. 👋
 
-I'm an IT professional with over **20 years of experience in Technical Support and IT Infrastructure** and on the last 14 years I worked as Technical Support Engineer at Dell EMC. I've ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality. I am an ethical person that enjoy and has the ability to teamwork, with attention and communication skills.
+> **IT Veteran transitioning to Software Development | Problem Solver**
 
-Currently studyng a degree in **Systems Analysis and Development** as well as taking other courses and seeking more knowledge through YouTube and AI tools.  
-My goal is to transition into **Software Development**, applying my extensive technical background of **analyze and solve problems** to build practical, secure, and efficient solutions.
+Welcome to my profile! I am an IT professional with a successful **20-year track record in Technical Support and IT Infrastructure**, including 14 years as a Technical Support Engineer at **Dell EMC**.
 
-I studied HTML5, CSS3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery and learned a lot of things that opportunized me to deliver projects like that: https://charles-da-silva.github.io/Fishflix/
-<br>Also studied backend with .Net/C# courses learning about OO, collections, UML, ASP.NET, Entity Framework, LINQ, Lambda and more.
+Currently, I am leveraging my extensive background in diagnosing complex issues and my deep analytical skills to pivot into **Software Development**. I am pursuing a degree in **Systems Analysis and Development**, applying my knowledge to build practical, secure, and efficient solutions with modern technology stacks.
 
 ---
 
-**Currently learning and practicing:**
-- 💻 Languages: Python, JavaScript, C#  
-- 🌐 Web Development: HTML, CSS, React  
-- 🧰 Tools: Git, GitHub, VS Code  
+### 🚀 Featured Project In Progress: School Management System
 
+I am currently developing a full-stack web application for managing a kindergarten school. This is a real-world educational project focused on modern market demands, robustness, and security.
+
+* **Repository Link:** [SchoolApp_React_Ts_ASP.NET_Jwt_EF_MySQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_MySQL)
+
+**Project Tech Stack:**
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Data & Auth** | ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+
+---
+
+### 🛠️ Technical Toolkit
+
+My skillset spans from foundational web technologies to strong backend development with Object-Oriented Programming.
+
+**Languages**
 <br>
-**🛠️ Technologies that I studied**
-<br><br>
-
-![Java](https://img.shields.io/badge/Java-DE0029?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-163DF0?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend & Web**
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+<br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-⭐ **"Experience builds the foundation, but continuous learning turns that foundation into innovation."**
+### 📂 Other Projects
+
+Before focusing on my current full-stack project, I honed my frontend skills with projects like:
+
+* **Fishflix:** A project showcasing HTML5, CSS3, Bootstrap 4, Javascript ES6, and DOM Manipulation capabilities.
+    * [View Live Project](https://charles-da-silva.github.io/Fishflix/)
+
+---
+
+<div align="center">
+
+### Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charles.dasilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+
+<br>
+
+![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-da-silva&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-da-silva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
