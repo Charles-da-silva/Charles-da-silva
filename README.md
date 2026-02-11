@@ -64,10 +64,8 @@ Before focusing on my current full-stack project, I honed my frontend skills wit
 
 ### Let's Connect!
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="28">
-&nbsp; **emaildocharles@gmail.com**
-
-<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emaildocharles@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlessilvadasilva/)
 
+<br>
 </div>
