@@ -65,7 +65,7 @@ Before focusing on my current full-stack project, I honed my frontend skills wit
 ### Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emaildocharles@gmail.com)
-<a href="LINK_DO_SEU_LINKEDIN_AQUI" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/charlessilvadasilva/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="28">
 </a>
 
