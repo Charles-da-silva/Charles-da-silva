@@ -1,10 +1,10 @@
-# Hi there! I'm Charles Silva. 👋
+# Welcome to my profile! I'm Charles Silva. 👋
 
-> **IT Veteran transitioning to Software Development | Problem Solver**
+I'm an IT professional with **over 20 years of experience in Technical Support and IT Infrastructure** and on the last 14 years I worked as Technical Support Engineer at **Dell EMC**.
 
-Welcome to my profile! I am an IT professional with a successful **20-year track record in Technical Support and IT Infrastructure**, including 14 years as a Technical Support Engineer at **Dell EMC**.
+I've extensive background in diagnosing complex issues and deep analytical skills, ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality, as well as ability to teamwork, with attention and communication skills.
 
-Currently, I am leveraging my extensive background in diagnosing complex issues and my deep analytical skills to pivot into **Software Development**. I am pursuing a degree in **Systems Analysis and Development**, applying my knowledge to build practical, secure, and efficient solutions with modern technology stacks.
+Currently, I am pursuing a degree in **Systems Analysis and Development**, but I also seek to acquire more knowledge on learning platforms to achieve my goal, which is to transition to the field of Software Development, as a software developer.
 
 ---
 
