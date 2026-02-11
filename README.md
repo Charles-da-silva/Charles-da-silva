@@ -65,11 +65,6 @@ Before focusing on my current full-stack project, I honed my frontend skills wit
 ### Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charles.dasilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-
-<br>
-
-![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-da-silva&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-da-silva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlessilvadasilva/)
 
 </div>
