@@ -12,7 +12,7 @@ Currently, I am pursuing a degree in **Systems Analysis and Development**, but I
 
 I am currently developing a full-stack web application for managing a kindergarten school. This is a real-world educational project focused on modern market demands, robustness, and security.
 
-* **Repository Link:** [SchoolApp_React_Ts_ASP.NET_Jwt_EF_MySQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_MySQL)
+* **Repository Link:** [SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL)
 
 **Project Tech Stack:**
 
@@ -20,7 +20,7 @@ I am currently developing a full-stack web application for managing a kindergart
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 | **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Data & Auth** | ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Data & Auth** | ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-005C84?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 
 ---
 
@@ -47,7 +47,6 @@ My skillset spans from foundational web technologies to strong backend developme
 <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
