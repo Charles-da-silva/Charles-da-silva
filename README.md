@@ -68,7 +68,3 @@ Before focusing on my current full-stack project, I honed my frontend skills wit
 
 <br>
 </div>
-
-[![Charles-da-silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-da-silva)](https://github.com/Charles-da-silva/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-da-silva&show_icons=true)
