@@ -1,10 +1,10 @@
 # Welcome to my profile! I'm Charles Silva. 👋
 
-I'm an IT professional with **over 20 years of experience in Technical Support and IT Infrastructure** and on the last 14 years I worked as Technical Support Engineer at **Dell EMC**.
+I'm an IT professional with over 20 years of experience in the IT, having worked for multinational companies such as Terra Networks SA and Dell Technologies (14 years).
 
-I've extensive background in diagnosing complex issues and deep analytical skills, ease of adapting to new challenges, proactivity and responsibility, always focused on greater efficiency and quality, as well as ability to teamwork, with attention and communication skills.
+I've extensive experience in diagnosing complex problems and excellent analytical skills, adaptability to new challenges, proactivity, attention to details, as well as excellent communication skills and teamwork abilities.
 
-Currently, I am pursuing a degree in **Systems Analysis and Development**, but I also seek to acquire more knowledge on learning platforms to achieve my goal, which is to transition to the field of Software Development, as a software developer.
+Currently, I am pursuing a degree in Systems Analysis and Development, but I also seek to acquire more knowledge in learning platforms and develop personal projects in the area of ​​software development to achieve my dream, which is to transition to the field of Software Development as a software developer.
 
 ---
 
