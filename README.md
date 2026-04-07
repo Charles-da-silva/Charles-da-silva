@@ -1,10 +1,8 @@
 # Welcome to my profile! I'm Charles Silva. 👋
 
-I'm an IT professional with over 20 years of experience in the IT, having worked for multinational companies such as Terra Networks SA and Dell Technologies (14 years).
+I'm a Student of Systems Analysis and Development in planned career transition to software development, with continuous dedication to practical projects and structured study of the area. I've solid experience in corporate IT environments, built over more than 20 years working with infrastructure and enterprise support in critical high-availability scenarios, including support for corporate and financial operations, which contributes to a development approach oriented towards stability and production environments.
 
-I've extensive experience in diagnosing complex problems and excellent analytical skills, adaptability to new challenges, proactivity, attention to details, as well as excellent communication skills and teamwork abilities.
-
-Currently, I am pursuing a degree in Systems Analysis and Development, but I also seek to acquire more knowledge in learning platforms and develop personal projects in the area of ​​software development to achieve my dream, which is to transition to the field of Software Development as a software developer.
+Currently focused on Full Stack development, working on the backend with C#, ASP.NET Core and PostgreSQL (Docker), while on the frontend with HTML, CSS, React and TypeScript, applying concepts of layered architecture, REST APIs and good software engineering practices.
 
 ---
 
