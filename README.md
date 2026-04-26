@@ -26,7 +26,7 @@ I am currently developing a full-stack web application for managing a kindergart
 - User access control
 - Reports
 
-* **Repository Link:** [SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL)
+🔗 Repository: [SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL)
 
 🛠️ Stack
 
@@ -41,12 +41,11 @@ I am currently developing a full-stack web application for managing a kindergart
 
 ---
 
-🚧 Project In Progress — MyMemo Flashcards (Released)
+🚧 Other Project In Progress — MyMemo Flashcards (Released)
 
 A web application designed to improve learning through spaced repetition and active recall, inspired by modern study techniques.
 
-🔗 Repository:
-https://github.com/Charles-da-silva/MyMemo_ReactAndTypescript
+🔗 Repository: [MyMemo_ReactAndTypescript](https://github.com/Charles-da-silva/MyMemo_ReactAndTypescript)
 
 📦 Release available:
 Includes a functional version with core features implemented.
@@ -69,6 +68,8 @@ Includes a functional version with core features implemented.
 - Layer	Technologies
 - Frontend	React, TypeScript
 - Storage	LocalStorage
+
+---
 
 ### 🛠️ Technical Toolkit
 
