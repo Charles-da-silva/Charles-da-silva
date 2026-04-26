@@ -16,14 +16,26 @@ Applying: REST APIs, layered architecture, and software engineering best practic
 
 I am currently developing a full-stack web application for managing a kindergarten school. This is a real-world educational project focused on modern market demands, robustness, and security.
 
+🏫 Planned Features
+- Student registration and management
+- Parent/Guardian registration
+- Employee registration and management
+- Class organization (linking classes with teachers and students)
+- User access control
+- Reports
+
 * **Repository Link:** [SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL)
 
 🛠️ Stack
-Category	Technologies
-Frontend	React, TypeScript
-Backend	C#, ASP.NET Core
-Data	PostgreSQL (Docker), Entity Framework
-Auth	JWT
+
+|    Layer      |          Technology           |         Reason for choice         |
+|---------------|-------------------------------|-----------------------------------|
+| Frontend      | React + TypeScript (Vite)     | Alta demanda no mercado           |
+| Backend       | ASP.Net Core MVC (C#)         | Robusto e amplamente utilizado    |
+| ORM           | Entity Framework Core         | Padrão consolidado                |
+| Banco         | PostgreSQL em Docker          | Open-source e baixo custo         |
+| Auth          | JWT                           | Segurança moderna                 |
+| Versionamento | Git + GitHub                  | Histórico e colaboração           |
 
 ---
 
@@ -78,8 +90,8 @@ My skillset spans from foundational web technologies to strong backend developme
 **Backend & Database**
 <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
