@@ -1,8 +1,14 @@
 # Welcome to my profile! I'm Charles Silva. 👋
 
-I'm a Student of Systems Analysis and Development in planned career transition to software development, with continuous dedication to practical projects and structured study of the area. I've solid experience in corporate IT environments, built over more than 20 years working with infrastructure and enterprise support in critical high-availability scenarios, including support for corporate and financial operations, which contributes to a development approach oriented towards stability and production environments.
+Full Stack Developer (in planned transition) with a strong background in enterprise IT infrastructure and support.
 
-Currently focused on Full Stack development, working on the backend with C#, ASP.NET Core and PostgreSQL (Docker), while on the frontend with HTML, CSS, React and TypeScript, applying concepts of layered architecture, REST APIs and good software engineering practices.
+I bring over 20 years of experience in corporate environments, including mission-critical and high-availability systems. This background shapes my development approach: focused on reliability, scalability, and production-ready solutions.
+
+Currently focused on Full Stack Development, working with:
+
+Backend: C#, ASP.NET Core, PostgreSQL (Docker)
+Frontend: React, TypeScript, HTML, CSS
+Applying: REST APIs, layered architecture, and software engineering best practices
 
 ---
 
@@ -12,15 +18,43 @@ I am currently developing a full-stack web application for managing a kindergart
 
 * **Repository Link:** [SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL](https://github.com/Charles-da-silva/SchoolApp_React_Ts_ASP.NET_Jwt_EF_PostgreSQL)
 
-**Project Tech Stack:**
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Data & Auth** | ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-005C84?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+🛠️ Stack
+Category	Technologies
+Frontend	React, TypeScript
+Backend	C#, ASP.NET Core
+Data	PostgreSQL (Docker), Entity Framework
+Auth	JWT
 
 ---
+
+🚧 Project In Progress — MyMemo Flashcards (Released)
+
+A web application designed to improve learning through spaced repetition and active recall, inspired by modern study techniques.
+
+🔗 Repository:
+https://github.com/Charles-da-silva/MyMemo_ReactAndTypescript
+
+📦 Release available:
+Includes a functional version with core features implemented.
+
+✨ Key Features
+- Flashcard-based study system
+- Review mode with answer validation
+- Local storage persistence (no backend required)
+- Dynamic deck creation
+- Study flow optimized for retention
+  
+🧠 Technical Highlights
+- State management with React Hooks
+- Structured component architecture
+- Data persistence using localStorage
+- Clean separation of concerns
+- UX focused on learning efficiency
+
+🛠️ Stack
+- Layer	Technologies
+- Frontend	React, TypeScript
+- Storage	LocalStorage
 
 ### 🛠️ Technical Toolkit
 
@@ -44,6 +78,8 @@ My skillset spans from foundational web technologies to strong backend developme
 **Backend & Database**
 <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
