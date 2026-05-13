@@ -6,7 +6,7 @@ I bring over 20 years of experience in corporate environments, including mission
 
 Currently focused on Full Stack Development, working with:
 
-Backend: C#, ASP.NET Core, PostgreSQL (Docker)
+Backend: C#, ASP.NET Core Web API, Entity Framework Core, Dapper and PostgreSQL (running in Docker)
 
 Frontend: React, TypeScript, HTML, CSS
 
@@ -32,11 +32,13 @@ I am currently developing a full-stack web application for managing a kindergart
 
 |    Layer      |          Technology           |         Reason for choice         |
 |---------------|-------------------------------|-----------------------------------|
-| Frontend      | React + TypeScript (Vite)     | High market demand                |
-| Backend       | ASP.Net Core MVC (C#)         | Robust and widely used            |
-| ORM           | Entity Framework Core         | Established standard              |
-| DataBase      | PostgreSQL em Docker          | Open-source and low cost          |
+| Frontend      | React + TypeScript (Vite)     | Modern and typed interface        |
+| Backend       | ASP.NET Core Web API (C#)     | Robust and widely used            |
+| ORM           | Entity Framework Core         | Writing and persistence           |
+| Micro ORM     | Dapper                        | Performance queries               |
+| Database      | PostgreSQL in Docker          | Open source and low cost          |
 | Auth          | JWT                           | Modern security                   |
+| Documentation | Swagger                       | Testing and documentation         |
 | Versioning    | Git + GitHub                  | History and collaboration         |
 
 ---
