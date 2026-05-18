@@ -55,21 +55,20 @@ Includes a functional version with core features implemented.
 ✨ Key Features
 - Flashcard-based study system
 - Review mode with answer validation
-- Local storage persistence (no backend required)
 - Dynamic deck creation
 - Study flow optimized for retention
   
 🧠 Technical Highlights
 - State management with React Hooks
 - Structured component architecture
-- Data persistence using localStorage
+- Data persistence using Node.js and Postgres
 - Clean separation of concerns
 - UX focused on learning efficiency
 
 🛠️ Stack
 - Layer	Technologies
-- Frontend	React, TypeScript
-- Storage	LocalStorage
+- Frontend	using React and TypeScript
+- Backend using Node.js and Postgres
 
 ---
 
