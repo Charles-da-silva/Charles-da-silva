@@ -43,7 +43,7 @@ I am currently developing a full-stack web application for managing a kindergart
 
 ---
 
-### 🚀 Othe interesting Full-Stack Project — FlowPay System
+### 🚀 Another interesting Full-Stack Project — FlowPay System
 
 A complete queue management and service monitoring application. It distributes incoming customers to agents based on categories, availability, and number of calls handled that day, as well as redistributing customers waiting in line for the next available agent, imposing limits on simultaneous calls for agents, and providing a real-time monitoring dashboard and reports.
 
