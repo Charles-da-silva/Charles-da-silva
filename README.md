@@ -43,7 +43,35 @@ I am currently developing a full-stack web application for managing a kindergart
 
 ---
 
-🚧 Other Project In Progress — MyMemo Flashcards (Released)
+### 🚀 Othe interesting Full-Stack Project — FlowPay System
+
+A complete queue management and service monitoring application. It distributes incoming customers to agents based on categories, availability, and number of calls handled that day, as well as redistributing customers waiting in line for the next available agent, imposing limits on simultaneous calls for agents, and providing a real-time monitoring dashboard and reports.
+
+🔗 Repository: [FlowPay-system](https://github.com/Charles-da-silva/FlowPay)
+
+📦 Production-ready architecture:
+Features a multi-module design with a cleanly separated Java REST API backend and a responsive React client.
+
+✨ Key Features
+- **Smart Ticket Routing:** Automated ticket distribution based on specialized categories (Card issues, Loans, Others) with support for queue-waiting rooms and multi-badge tracking.
+- **Real-Time Operations Dashboard:** Live analytics updates via Server-Sent Events (SSE) tracking active, available, paused agents, and queue sizes instantly.
+- **Agent Lifecycle Management:** Complete state management covering registration, logical deletion (history-preserving), and time-tracked operational break/pause states.
+- **Reporting & BI Analytics:** Integrated management module to query core KPIs (Service Level, average handle times), analyze category performance, and export data directly to CSV.
+
+🧠 Technical Highlights
+- **Clean Architecture Principles:** Backend package organization strictly structured around Domain-Driven concepts (Application, Domain, Interfaces, Shared).
+- **Concurrency & State Control:** Advanced backend allocation logic managing load balance thresholds (max 3 concurrent tickets per agent) and automatic queue re-routing.
+- **Database Versioning:** Migrations managed cleanly via Flyway to structure core metrics, agent breaks, and historical reporting logs.
+- **Automated CI/CD Pipeline:** Embedded GitHub Actions automation running comprehensive Maven test suites (Java 21) and production-grade Vite builds (Node 22) on every push.
+
+🛠️ Stack
+- **Backend:** Java 21, Spring Boot 3.3, Spring Data JPA, Hibernate, Flyway, Maven.
+- **Frontend:** React, TypeScript, Vite, Axios, Tailwind CSS.
+- **Infrastructure:** PostgreSQL, Docker Compose, GitHub Actions CI.
+
+---
+
+### 🚧 Other Project In Progress — MyMemo Flashcards (Released)
 
 A web application designed to improve learning through spaced repetition and active recall, inspired by modern study techniques.
 
