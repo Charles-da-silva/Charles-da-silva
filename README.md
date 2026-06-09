@@ -91,7 +91,8 @@ An advanced evolution that expands the core application into a full-scale cloud 
 - **Status:** Deployed and fully functional.
 - **Live Demo:** [Try the Fullstack Version](https://mymemoflashcards.short.gy/FullStack-Version)
 - **Key Features:** Full CRUD for decks and cards, real-time card deletion during sessions, and automated deck creation via structured AI-chat prompts.
-- **Tech Stack:** React, TypeScript, Node.js, PostgreSQL, Vercel, Render, Neon.
+- **Tech Stack:** React, TypeScript, Node.js, PostgreSQL.
+- **Infrastructure:** Vercel, Render, Neon.
 
 ### ✨ Key Application Features
 - **Spaced Repetition Algorithm:** Smart review system based on user-rated difficulty (Hard: 10m, Medium: 1d, Easy: 3d).
