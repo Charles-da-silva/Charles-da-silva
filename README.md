@@ -71,32 +71,38 @@ Features a multi-module design with a cleanly separated Java REST API backend an
 
 ---
 
-### 🚧 Other Project In Progress — MyMemo Flashcards (Released)
+### 🚀 Featured Project — MyMemo Flashcards (Released)
 
-A web application designed to improve learning through spaced repetition and active recall, inspired by modern study techniques.
+A responsive web application designed to improve learning through spaced repetition and active recall. Developed following agile practices (SCRUM), this project is divided into two distinct versions:
 
-🔗 Repository: [MyMemo_ReactAndTypescript](https://github.com/Charles-da-silva/MyMemo_ReactAndTypescript)
+🔗 **Main Repository:** [MyMemo_ReactAndTypescript](https://github.com/Charles-da-silva/MyMemo_ReactAndTypescript)
 
-📦 Release available:
-Includes a functional version with core features implemented.
+#### 🌐 1. Frontend Version (localStorage)
+The initial release built for quick user feedback and manual testing. It runs entirely on the client side, using the browser's local storage for data persistence.
 
-✨ Key Features
-- Flashcard-based study system
-- Review mode with answer validation
-- Dynamic deck creation
-- Study flow optimized for retention
-  
-🧠 Technical Highlights
-- State management with React Hooks
-- Structured component architecture
-- Data persistence using Node.js and Postgres
-- Clean separation of concerns
-- UX focused on learning efficiency
+- **Status:** Deployed and available via GitHub Actions.
+- **Live Demo:** [Try the localStorage Version](https://Charles-da-silva.github.io/MyMemo_ReactAndTypescript)
+- **Key Features:** Study flow, deck editing, and JSON data import/export.
+- **Tech Stack:** HTML, CSS, React, TypeScript, GitHub Pages.
 
-🛠️ Stack
-- Layer	Technologies
-- Frontend	using React and TypeScript
-- Backend using Node.js and Postgres
+#### ⚡ 2. Fullstack Version (Database & AI-Assisted)
+An advanced evolution that expands the core application into a full-scale cloud product, featuring permanent server-side database storage and AI prompt integration.
+
+- **Status:** Deployed and fully functional.
+- **Live Demo:** [Try the Fullstack Version](https://mymemoflashcards.short.gy/FullStack-Version)
+- **Key Features:** Full CRUD for decks and cards, real-time card deletion during sessions, and automated deck creation via structured AI-chat prompts.
+- **Tech Stack:** React, TypeScript, Node.js, PostgreSQL, Vercel, Render, Neon.
+
+### ✨ Key Application Features
+- **Spaced Repetition Algorithm:** Smart review system based on user-rated difficulty (Hard: 10m, Medium: 1d, Easy: 3d).
+- **AI-Powered Workflows:** Optimized prompt feature allowing users to generate complex JSON-structured decks using external AI chatbots without service limits.
+- **Flexible Data Sharing:** Full backup support with seamless JSON file import/export.
+- **Multi-Alternative Cards:** Enhanced flashcard creation with multiple-choice options.
+
+### 🧠 Design & Architecture
+- **Prototyping:** Built initially on [Figma](https://mymemoflashcards.short.gy/Figma) to focus heavily on learning-efficient UX.
+- **CI/CD:** Automated workflows implemented with GitHub Actions.
+- **Future Roadmap:** Secure user authentication for cross-device data isolation.
 
 ---
 
