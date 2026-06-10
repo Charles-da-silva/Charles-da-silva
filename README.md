@@ -1,16 +1,17 @@
 # Welcome to my profile! I'm Charles Silva. 👋
 
-Full Stack Developer (in planned transition) with a strong background in enterprise IT infrastructure and support.
+Junior Full Stack Developer with a solid background of over 20 years in corporate IT infrastructure, mission-critical environments, and high-availability systems. 
 
-I bring over 20 years of experience in corporate environments, including mission-critical and high-availability systems. This background shapes my development approach: focused on reliability, scalability, and production-ready solutions.
+My experience in infrastructure deeply shapes my development mindset: I don't just write code; I design solutions focused on reliability, scalability, security, and production-ready architecture.
 
-Currently focused on Full Stack Development, working with:
+### 🚀 My Evolution & Technical Focus
+In my learning strategy instead of limiting myself to a single stack, I chose to master the dominant ecosystems demanded by the enterprise market (.NET, Java, and Node.js) always combined with React and TypeScript on the frontend. 
 
-Backend: C#, ASP.NET Core Web API, Entity Framework Core, Dapper and PostgreSQL (running in Docker)
+My goal is not merely to code features, but to deeply understand modern software architecture, patterns, and how complex systems communicate.
 
-Frontend: React, TypeScript, HTML, CSS
-
-Applying: REST APIs, layered architecture, and software engineering best practices
+*   **Architectural Foundations:** Practical application of Clean Architecture, Domain-Driven Design (DDD) concepts, layered structures, and REST API best practices.
+*   **Data & Performance:** Experience with relational databases (PostgreSQL), combining heavy-duty ORMs (EF Core, Spring Data JPA) with performance-focused Micro-ORMs (Dapper) and versioning tools (Flyway).
+*   **DevOps Mindset:** Leveraging my infrastructure background to build automated CI/CD pipelines (GitHub Actions) and containerized environments (Docker).
 
 ---
 
