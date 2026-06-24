@@ -17,7 +17,7 @@ My goal is not merely to code features, but to deeply understand modern software
 
 ### 🚀 Featured Project In Progress: School Management System
 
-I am currently developing a full-stack web application for managing a kindergarten school. This is a real-world educational project focused on modern market demands, robustness, and security.
+I am currently developing a full-stack web application for managing a kindergarten school. This is a real-world project focused on modern market demands, robustness, and security.
 
 🏫 Planned Features
 - Student registration and management
