@@ -17,7 +17,7 @@ My goal is not merely to code features, but to deeply understand modern software
 
 ### 🚀 Featured Project In Progress: School Management System
 
-I am currently developing a full-stack web application for managing a kindergarten school. This is a real-world project focused on modern market demands, robustness, and security.
+I am currently developing a full stack web application for managing a kindergarten school. This is a real-world project focused on modern market demands, robustness, and security.
 
 🏫 Planned Features
 - Student registration and management
@@ -86,14 +86,14 @@ The initial release built for quick user feedback and manual testing. It runs en
 - **Key Features:** Study flow, deck editing, and JSON data import/export.
 - **Tech Stack:** HTML, CSS, React, TypeScript, GitHub Pages.
 
-#### ⚡ 2. Fullstack Version (Database & AI-Assisted)
+#### ⚡ 2. Full Stack Version (Database & AI-Assisted)
 An advanced evolution that expands the core application into a full-scale cloud product, featuring permanent server-side database storage and AI prompt integration.
 
 - **Status:** Deployed and fully functional.
-- **Live Demo:** [Try the Fullstack Version](https://mymemoflashcards.short.gy/FullStack-Version)
+- **Live with own domain:** [Try the Full Stack Version](https://mymemo.nanuvem.net/)
 - **Key Features:** Full CRUD for decks and cards, real-time card deletion during sessions, and automated deck creation via structured AI-chat prompts.
 - **Tech Stack:** React, TypeScript, Node.js, PostgreSQL.
-- **Infrastructure:** Vercel, Render, Neon.
+- **Infrastructure:** Vercel, Render, Neon and own domain (https://mymemo.nanuvem.net/)
 
 ### ✨ Key Application Features
 - **Spaced Repetition Algorithm:** Smart review system based on user-rated difficulty (Hard: 10m, Medium: 1d, Easy: 3d).
@@ -138,7 +138,7 @@ My skillset spans from foundational web technologies to strong backend developme
 
 ### 📂 Other Projects
 
-Before focusing on my current full-stack project, I honed my frontend skills with projects like:
+Before focusing on my current full stack projects, I honed my frontend skills with projects like:
 
 * **Fishflix:** A project showcasing HTML5, CSS3, Bootstrap 4, Javascript ES6, and DOM Manipulation capabilities.
     * [View Live Project](https://charles-da-silva.github.io/Fishflix/)
