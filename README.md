@@ -1,10 +1,10 @@
-# Welcome to my profile! I'm Charles Silva. 👋
+# <samp> Welcome to my profile! I'm Charles Silva. </samp> 👋
 
 Junior Full Stack Developer with a solid background of over 20 years in corporate IT infrastructure, mission-critical environments, and high-availability systems. 
 
 My experience in infrastructure deeply shapes my development mindset: I don't just write code; I design solutions focused on reliability, scalability, security, and production-ready architecture.
 
-### 🚀 My Evolution & Technical Focus
+## 🚀 <samp> My Evolution & Technical Focus
 In my learning strategy instead of limiting myself to a single stack, I chose to master the dominant ecosystems demanded by the enterprise market (.NET, Java, and Node.js) always combined with React and TypeScript on the frontend. 
 
 My goal is not merely to code features, but to deeply understand modern software architecture, patterns, and how complex systems communicate.
@@ -15,7 +15,7 @@ My goal is not merely to code features, but to deeply understand modern software
 
 ---
 
-### 🚀 Featured Project In Progress: School Management System
+## 🚀 <samp> Featured Project In Progress: School Management System
 
 I am currently developing a full stack web application for managing a kindergarten school. This is a real-world project focused on modern market demands, robustness, and security.
 
@@ -44,7 +44,7 @@ I am currently developing a full stack web application for managing a kindergart
 
 ---
 
-### 🚀 Another interesting Full-Stack Project — FlowPay System
+## 🚀 <samp> Another interesting Full-Stack Project — FlowPay System
 
 A complete queue management and service monitoring application. It distributes incoming customers to agents based on categories, availability, and number of calls handled that day, as well as redistributing customers waiting in line for the next available agent, imposing limits on simultaneous calls for agents, and providing a real-time monitoring dashboard and reports.
 
@@ -72,7 +72,7 @@ Features a multi-module design with a cleanly separated Java REST API backend an
 
 ---
 
-### 🚀 Featured Project — MyMemo Flashcards (Released)
+## 🚀 <samp> Featured Project — MyMemo Flashcards (Released)
 
 A responsive web application designed to improve learning through spaced repetition and active recall. Developed following agile practices (SCRUM), this project is divided into two distinct versions:
 
@@ -108,7 +108,7 @@ An advanced evolution that expands the core application into a full-scale cloud 
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🛠️ <samp> Technical Toolkit
 
 My skillset spans from foundational web technologies to strong backend development with Object-Oriented Programming.
 
